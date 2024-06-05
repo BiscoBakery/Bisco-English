@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Bisco-English
+    name: Bisco-dancer
     env: python
     region: Oregon
     plan: free
